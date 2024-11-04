@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "global_gtms",
+  "info": {
+    "singularName": "global-gtm",
+    "pluralName": "global-gtms",
+    "displayName": "GlobalGTM"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "GTM_ID": {
+      "type": "string"
+    }
+  }
+}
